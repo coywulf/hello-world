@@ -1,4 +1,3 @@
 hello-world
 ===========
-
-First Github repository
+I'm doing this for the very first time!
